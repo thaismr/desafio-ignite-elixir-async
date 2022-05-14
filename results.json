@@ -1,0 +1,43 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "parse_file/1",
+      "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/parser_test.exs",
+      "line": 7,
+      "module": "Elixir.GenReport.ParserTest",
+      "test": "test parse_file/1 parses the file"
+    },
+    {
+      "describe": "build_from_many/1",
+      "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
+      "line": 26,
+      "module": "Elixir.GenReportTest",
+      "test": "test build_from_many/1 When passing a list of file names, return a report"
+    },
+    {
+      "describe": "build/1",
+      "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
+      "line": 18,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When no filename was given, returns an error"
+    },
+    {
+      "describe": "build/1",
+      "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
+      "line": 12,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When passing file name return a report"
+    },
+    {
+      "describe": "build_from_many/1",
+      "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
+      "line": 32,
+      "module": "Elixir.GenReportTest",
+      "test": "test build_from_many/1 When no list of file names was given, returns an error"
+    }
+  ],
+  "skiped": []
+}
