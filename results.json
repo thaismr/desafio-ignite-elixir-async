@@ -13,16 +13,9 @@
     {
       "describe": "build_from_many/1",
       "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
-      "line": 26,
+      "line": 32,
       "module": "Elixir.GenReportTest",
-      "test": "test build_from_many/1 When passing a list of file names, return a report"
-    },
-    {
-      "describe": "build/1",
-      "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
-      "line": 18,
-      "module": "Elixir.GenReportTest",
-      "test": "test build/1 When no filename was given, returns an error"
+      "test": "test build_from_many/1 When no list of file names was given, returns an error"
     },
     {
       "describe": "build/1",
@@ -32,11 +25,18 @@
       "test": "test build/1 When passing file name return a report"
     },
     {
+      "describe": "build/1",
+      "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
+      "line": 18,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When no filename was given, returns an error"
+    },
+    {
       "describe": "build_from_many/1",
       "file": "c:/Users/thais/vscode-projects/desafio-ignite-elixir-async/test/gen_report_test.exs",
-      "line": 32,
+      "line": 26,
       "module": "Elixir.GenReportTest",
-      "test": "test build_from_many/1 When no list of file names was given, returns an error"
+      "test": "test build_from_many/1 When passing a list of file names, return a report"
     }
   ],
   "skiped": []
